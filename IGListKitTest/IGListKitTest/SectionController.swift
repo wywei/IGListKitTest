@@ -16,6 +16,8 @@ final class LabelSectionController:  ListSectionController {
     override init() {
         super.init()
         
+            //todo
+        
         inset = UIEdgeInsets(top: kMargin, left: kMargin, bottom: kMargin, right: kMargin)
         
     }
